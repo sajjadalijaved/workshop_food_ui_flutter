@@ -1,4 +1,4 @@
-# workshop1_food_ui
+# workshop_food_ui
 
 A new Flutter project.
 
